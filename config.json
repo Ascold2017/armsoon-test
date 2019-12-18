@@ -1,0 +1,6 @@
+{
+    "API_URL": "https://testnet.bitmex.com/api/v1",
+    "API_KEY": "48GphC_MTWN_0ntW4V1osU4S",
+    "API_SECRET": "-hoVHM9kC1JRwlQBPjYdzosCCpKl7CNtomzyCTGVoLcQ5PSV",
+    "WSS_URL": "wss://testnet.bitmex.com/realtime"
+}
