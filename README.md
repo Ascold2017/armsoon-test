@@ -5,25 +5,10 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Launch project
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Launch server: ```cd server && node app```
 
-### Run your tests
-```
-npm run test
-```
+2. Launch frontend: ```npm run serve```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
